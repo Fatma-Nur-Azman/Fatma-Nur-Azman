@@ -24,7 +24,7 @@ I am focused on teamwork and continuous learning to develop creative and innovat
 
 <br><br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY21vbXdpN2h1dHBwMDhhNHE0dTR6eHV1MTgwN2M2c3pmOW96OGEzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/137EaR4vAOCn1S/giphy.gif" align="right" height="280" width="400">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGZlcWkzN2Y5M2MxNjN4MWxyeTE1endkZnp5MWptajIzdXkwOHBxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UDclWKlmfmq7twI3iJ/giphy.gif" align="right" height="280" width="400">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23333333&lines=About+me;)
 
