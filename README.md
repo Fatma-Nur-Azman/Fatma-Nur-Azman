@@ -4,10 +4,10 @@
   <a href="https://www.linkedin.com/in/fatma-nur-azman/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/fatma-nur-azman/"/>
   </a>
-
   
 Jr Data Scientist
------------------
+---------------
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Fatma-Nur-Azman&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
@@ -20,6 +20,9 @@ I enjoy contributing to open-source projects on GitHub and engaging with the dat
 
 I am focused on teamwork and continuous learning to develop creative and innovative solutions.
 
+<br><br>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY21vbXdpN2h1dHBwMDhhNHE0dTR6eHV1MTgwN2M2c3pmOW96OGEzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/137EaR4vAOCn1S/giphy.gif" align="right" height="280" width="400">
 
 
 * 🌍  I'm based in Türkiye
@@ -28,9 +31,14 @@ I am focused on teamwork and continuous learning to develop creative and innovat
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I am Wonder Woman, Tell Everyone
 
+<br><br>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
+
 ### Skills
 
------------------
+
 <p align="left">
 <code><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><a href="https://numpy.org/" target="_blank" rel="noreferrer"><img height="40" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
@@ -54,7 +62,6 @@ I am focused on teamwork and continuous learning to develop creative and innovat
 
 </p>
 
------------------
 
 
 ### Badges
