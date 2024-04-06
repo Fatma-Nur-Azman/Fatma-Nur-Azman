@@ -38,7 +38,7 @@ I am focused on teamwork and continuous learning to develop creative and innovat
 
 
 
-### Skills
+### Languages and Tools
 
 
 <p align="left">
