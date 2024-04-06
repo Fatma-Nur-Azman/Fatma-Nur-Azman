@@ -32,7 +32,6 @@ I am focused on teamwork and continuous learning to develop creative and innovat
 * ✉️  You can contact me at [azmanfnur@gmail.com](mailto:azmanfnur@gmail.com)
 * 🧠  I'm learning Machine Learning, Deep Learning, NLP, Generative AI
 * 🤝  I'm open to collaborating on Projects
-* ⚡  I am Wonder Woman, Tell Everyone
 
 <br><br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
