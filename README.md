@@ -12,6 +12,7 @@ Jr Data Scientist
   <img src="https://komarev.com/ghpvc/?username=Fatma-Nur-Azman&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+
 I am a data scientist and a passionate learner. I have a strong passion for data analysis, machine learning, and artificial intelligence.
 
 Applying a data-driven approach to solve problems and analyzing complex datasets to derive meaningful insights excites me.
@@ -20,10 +21,12 @@ I enjoy contributing to open-source projects on GitHub and engaging with the dat
 
 I am focused on teamwork and continuous learning to develop creative and innovative solutions.
 
+
 <br><br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY21vbXdpN2h1dHBwMDhhNHE0dTR6eHV1MTgwN2M2c3pmOW96OGEzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/137EaR4vAOCn1S/giphy.gif" align="right" height="280" width="400">
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23333333&lines=About+me;)
 
 * 🌍  I'm based in Türkiye
 * ✉️  You can contact me at [azmanfnur@gmail.com](mailto:azmanfnur@gmail.com)
@@ -57,16 +60,13 @@ I am focused on teamwork and continuous learning to develop creative and innovat
 <code><a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img height="50" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>
 
 
-
-
-
 </p>
-
 
 
 ### Badges
 
 <b>My GitHub Stats</b>
+
 
 <a href="http://www.github.com/Fatma-Nur-Azman"><img src="https://github-readme-stats.vercel.app/api?username=Fatma-Nur-Azman&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Fatma-Nur-Azman's GitHub stats" /></a>
 
