@@ -1,8 +1,16 @@
-Hi 👋 My name is FATMANUR AZMAN
-===============================
+<h1 align="center">Hi 👋 My name is FATMA NUR AZMAN</h1>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/fatma-nur-azman/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/fatma-nur-azman/"/>
+  </a>
+
+  
 Jr Data Scientist
 -----------------
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Fatma-Nur-Azman&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 I am a data scientist and a passionate learner. I have a strong passion for data analysis, machine learning, and artificial intelligence.
 
@@ -12,6 +20,8 @@ I enjoy contributing to open-source projects on GitHub and engaging with the dat
 
 I am focused on teamwork and continuous learning to develop creative and innovative solutions.
 
+
+
 * 🌍  I'm based in Türkiye
 * ✉️  You can contact me at [azmanfnur@gmail.com](mailto:azmanfnur@gmail.com)
 * 🧠  I'm learning Machine Learning, Deep Learning, NLP, Generative AI
@@ -19,6 +29,8 @@ I am focused on teamwork and continuous learning to develop creative and innovat
 * ⚡  I am Wonder Woman, Tell Everyone
 
 ### Skills
+
+-----------------
 <p align="left">
 <code><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><a href="https://numpy.org/" target="_blank" rel="noreferrer"><img height="40" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
@@ -42,12 +54,7 @@ I am focused on teamwork and continuous learning to develop creative and innovat
 
 </p>
 
-
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/Fatma-Nur-Azman" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/fatma-nur-azman/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+-----------------
 
 
 ### Badges
@@ -57,3 +64,4 @@ I am focused on teamwork and continuous learning to develop creative and innovat
 <a href="http://www.github.com/Fatma-Nur-Azman"><img src="https://github-readme-stats.vercel.app/api?username=Fatma-Nur-Azman&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Fatma-Nur-Azman's GitHub stats" /></a>
 
 <a href="http://www.github.com/Fatma-Nur-Azman"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Fatma-Nur-Azman&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
