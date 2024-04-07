@@ -37,7 +37,6 @@ I am focused on teamwork and continuous learning to develop creative and innovat
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
-
 ### Languages and Tools
 
 
@@ -70,4 +69,15 @@ I am focused on teamwork and continuous learning to develop creative and innovat
 <a href="http://www.github.com/Fatma-Nur-Azman"><img src="https://github-readme-stats.vercel.app/api?username=Fatma-Nur-Azman&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Fatma-Nur-Azman's GitHub stats" /></a>
 
 <a href="http://www.github.com/Fatma-Nur-Azman"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Fatma-Nur-Azman&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+
+<strong>Top Repositories</strong>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fatma-Nur-Azman&repo=Data-Science-Exercises
+)](https://github.com/Fatma-Nur-Azman/Data-Science-Exercises)
+
+
+<strong>🏆 Dooboo lab's github stats</strong>
+
+<a href="https://stats.dooboo.io/en/stats/Fatma-Nur-Azman"><img src="https://stats.dooboo.io/api/github-stats?login=Fatma-Nur-Azman" width="600" /></a>
 
