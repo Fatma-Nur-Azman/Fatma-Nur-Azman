@@ -60,6 +60,18 @@ I am focused on teamwork and continuous learning to develop creative and innovat
 
 </p>
 
+<div align="center">
+  
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+
+</br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Fatma-Nur-Azman&theme=chalk&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+</br>
+
+
 
 ### Badges
 
@@ -69,6 +81,7 @@ I am focused on teamwork and continuous learning to develop creative and innovat
 
 <a href="http://www.github.com/Fatma-Nur-Azman"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Fatma-Nur-Azman&stroke=ffffff&background=F0F0F0&ring=0891b2&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
+</div>
 
 <strong>Top Repositories</strong>
 
