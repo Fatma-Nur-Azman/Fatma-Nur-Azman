@@ -120,7 +120,4 @@ I am focused on teamwork and continuous learning to develop creative and innovat
 )](https://github.com/Fatma-Nur-Azman/Data-Science-Exercises)
 
 
-<strong>🏆 Dooboo lab's github stats</strong>
-
-<a href="https://stats.dooboo.io/en/stats/Fatma-Nur-Azman"><img src="https://stats.dooboo.io/api/github-stats?login=Fatma-Nur-Azman" width="600" /></a>
 
