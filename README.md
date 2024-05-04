@@ -119,5 +119,8 @@ I am focused on teamwork and continuous learning to develop creative and innovat
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fatma-Nur-Azman&repo=Data-Science-Exercises
 )](https://github.com/Fatma-Nur-Azman/Data-Science-Exercises)
 
+ 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fatma-Nur-Azman&repo=EDA
+)](https://github.com/Fatma-Nur-Azman/EDA)
 
 
