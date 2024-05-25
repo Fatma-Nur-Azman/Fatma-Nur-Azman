@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/fatma-nur-azman/"/>
   </a>
   
-Jr Data Scientist
+Data Analyst | Business Analysis | Tableau | Power BI
 ---------------
 
 <p align="left">
