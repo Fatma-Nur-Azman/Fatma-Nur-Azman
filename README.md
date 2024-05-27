@@ -80,12 +80,15 @@ I am focused on teamwork and continuous learning to develop creative and innovat
 <code><a href="https://github.com/Fatma-Nur-Azman" target="_blank" rel="noreferrer"><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></code>
 <code><a href="https://github.com/Fatma-Nur-Azman" target="_blank" rel="noreferrer"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
 <code><a href="https://github.com/Fatma-Nur-Azman" target="_blank" rel="noreferrer"><img height="60" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-<code><a href="https://github.com/Fatma-Nur-Azman" target="_blank" rel="noreferrer"><img height="55" src="https://www.jonathan.vc/wp-content/uploads/2013/06/google-sheets-logo-scaled.png"></code>
+<code><a href="https://github.com/Fatma-Nur-Azman" target="_blank" rel="noreferrer"><img height="45" src="https://user-images.githubusercontent.com/1784648/98036360-301b2380-1e1a-11eb-8147-6cda5417e344.png"></code>
 <code><a href="https://github.com/Fatma-Nur-Azman" target="_blank" rel="noreferrer"><img height="55" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>
+<code><a href="https://github.com/Fatma-Nur-Azman" target="_blank" rel="noreferrer"><img height="55" src="https://www.sistembul.com/Content/Images/Gallery/microsoft-dynamics-ax-9e42e.png"></code>
+<code><a href="https://github.com/Fatma-Nur-Azman" target="_blank" rel="noreferrer"><img height="48" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
+<code><a href="https://github.com/Fatma-Nur-Azman" target="_blank" rel="noreferrer"><img height="48" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
+<code><a href="https://github.com/Fatma-Nur-Azman" target="_blank" rel="noreferrer"><img height="55" src="https://www.jonathan.vc/wp-content/uploads/2013/06/google-sheets-logo-scaled.png"></code>
 <code><a href="https://github.com/Fatma-Nur-Azman" target="_blank" rel="noreferrer"><img height="55" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg"></code>
 <code><a href="https://github.com/Fatma-Nur-Azman" target="_blank" rel="noreferrer"><img height="45" src="https://www.vectorlogo.zone/logos/discord/discord-ar21.svg"></code>
-<code><a href="https://github.com/Fatma-Nur-Azman" target="_blank" rel="noreferrer"><img height="45" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><a href="https://github.com/Fatma-Nur-Azman" target="_blank" rel="noreferrer"><img height="45" src="https://user-images.githubusercontent.com/1784648/98036360-301b2380-1e1a-11eb-8147-6cda5417e344.png"></code>
+
 
 </p>
 
