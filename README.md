@@ -70,6 +70,7 @@ I am focused on teamwork and continuous learning to develop creative and innovat
 <h3>🗄️ Databases and Cloud Hosting</h3>
 
 <code><a href="https://github.com/Fatma-Nur-Azman" target="_blank" rel="noreferrer"><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+<code><a href="https://github.com/Fatma-Nur-Azman" target="_blank" rel="noreferrer"><img height="40" src="https://awsmp-logos.s3.amazonaws.com/0ed7b11e-a954-4759-b706-255abb673d4c/019d31123782932ac3e85ee51c6e1f63.png"></code>
 <code><a href="https://github.com/Fatma-Nur-Azman" target="_blank" rel="noreferrer"><img height="50" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></code>
 <code><a href="https://github.com/Fatma-Nur-Azman" target="_blank" rel="noreferrer"><img height="35" src="https://github.com/gilbarbara/logos/blob/main/logos/notion.svg"></code>
 
