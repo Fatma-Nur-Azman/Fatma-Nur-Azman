@@ -120,7 +120,12 @@ I am focused on teamwork and continuous learning to develop creative and innovat
 )](https://github.com/Fatma-Nur-Azman/Data-Science-Exercises)
 
  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fatma-Nur-Azman&repo=EDA
-)](https://github.com/Fatma-Nur-Azman/EDA)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fatma-Nur-Azman&repo=EDA_Projects
+)](https://github.com/Fatma-Nur-Azman/EDA_Projects)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fatma-Nur-Azman&repo=DATAVIZ__Projects-
+)](https://github.com/Fatma-Nur-Azman/DATAVIZ__Projects-)
+
 
 
