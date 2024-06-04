@@ -131,5 +131,6 @@ I am focused on teamwork and continuous learning to develop creative and innovat
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fatma-Nur-Azman&repo=DATAVIZ__Projects-
 )](https://github.com/Fatma-Nur-Azman/DATAVIZ__Projects-)
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fatma-Nur-Azman&repo=SQL
+)](https://github.com/Fatma-Nur-Azman/SQL)
 
