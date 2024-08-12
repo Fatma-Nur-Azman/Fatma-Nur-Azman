@@ -13,7 +13,7 @@ Data Analyst | Business Analyst | Tableau | Power BI
 </p>
 
 
-I am a data scientist and a passionate learner. I have a strong passion for data analysis, machine learning, and artificial intelligence.
+I am a data analyst and a passionate data scientist learner. I have a strong passion for data analytics, machine learning and artificial intelligence.
 
 Applying a data-driven approach to solve problems and analyzing complex datasets to derive meaningful insights excites me.
 
