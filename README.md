@@ -150,8 +150,8 @@ I am focused on teamwork and continuous learning to develop creative and innovat
       </a>
     </td>
     <td>
-      <a href="https://github.com/Fatma-Nur-Azman/DATAVIZ__Projects-">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fatma-Nur-Azman&repo=DATAVIZ__Projects-" />
+      <a href="https://github.com/Fatma-Nur-Azman/Tableau">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fatma-Nur-Azman&repo=Tableau" />
       </a>
     </td>
   </tr>
