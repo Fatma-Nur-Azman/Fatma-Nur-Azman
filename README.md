@@ -61,8 +61,8 @@ I am focused on teamwork and continuous learning to develop creative and innovat
 <code><a href="https://github.com/Fatma-Nur-Azman" target="_blank" rel="noreferrer"><img height="45" src="https://cdn-images-1.medium.com/v2/resize:fit:1000/1*-7Ro7fO__wwWz0iL9tucHQ.png"></code>
 <code><a href="https://github.com/Fatma-Nur-Azman" target="_blank" rel="noreferrer"><img height="25" src="https://raw.githubusercontent.com/bokeh/pm/main/assets/logos/SVG/bokeh-logo-black-text-no-padding.svg"></code>
 <code><a href="https://github.com/Fatma-Nur-Azman" target="_blank" rel="noreferrer"><img height="35" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png"></code>
-
-
+<code><a href="https://github.com/Fatma-Nur-Azman" target="_blank" rel="noreferrer"><img height="55" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
+<code><a href="https://github.com/Fatma-Nur-Azman" target="_blank" rel="noreferrer"><img height="55" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
 
 
 
