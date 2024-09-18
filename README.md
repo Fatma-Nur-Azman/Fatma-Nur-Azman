@@ -122,7 +122,7 @@ I am focused on teamwork and continuous learning to develop creative and innovat
   <tr>
     <td>
       <a href="https://github.com/Fatma-Nur-Azman/Data-Science_Projects-ML-DL">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fatma-Nur-Azman&repo=Data-Science-Exercises" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fatma-Nur-Azman&repo=Data-Science_Projects-ML-DL" />
       </a>
     </td>
     <td>
@@ -145,8 +145,8 @@ I am focused on teamwork and continuous learning to develop creative and innovat
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/Fatma-Nur-Azman/EDA_Projects">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fatma-Nur-Azman&repo=EDA_Projects" />
+      <a href="https://github.com/Fatma-Nur-Azman/SQL">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fatma-Nur-Azman&repo=SQL" />
       </a>
     </td>
     <td>
