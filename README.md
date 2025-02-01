@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 My name is FATMA NUR AZMAN</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fatma-nur-azman/">
+  <a href="https://www.linkedin.com/in/fatmanurazman/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/fatma-nur-azman/"/>
   </a>
   
