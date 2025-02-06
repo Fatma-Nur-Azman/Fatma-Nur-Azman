@@ -13,13 +13,11 @@ Data Scientist | Data Analyst | Business Analyst | Tableau | Power BI
 </p>
 
 
-I am a data analyst and a passionate data scientist learner. I have a strong passion for data analytics, machine learning and artificial intelligence.
+Results-driven Data Analyst & Data Scientist with a strong background in data analysis, machine learning, and predictive modeling across industries like healthcare, finance, and e-commerce. Proficient in SQL, Python, Power BI, Tableau, and AWS, transforming complex data into actionable insights to optimize business decisions.
 
-Applying a data-driven approach to solve problems and analyzing complex datasets to derive meaningful insights excites me.
+Expert in statistical modeling, feature engineering, and A/B testing, with hands-on experience in developing AI-driven predictive models (achieving 92% accuracy) and enhancing profitability (+15%) and sales performance (+20%). Skilled in data visualization, workflow automation, and end-to-end AI solutions to drive efficiency and strategic impact. 
 
-I enjoy contributing to open-source projects on GitHub and engaging with the data science community. 
-
-I am focused on teamwork and continuous learning to develop creative and innovative solutions.
+Proven ability to streamline processes, optimize resource allocation, and reduce project costs by 15%, delivering measurable business value through data-driven solutions.
 
 
 <br><br>
