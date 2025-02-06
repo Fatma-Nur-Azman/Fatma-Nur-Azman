@@ -28,7 +28,7 @@ Proven ability to streamline processes, optimize resource allocation, and reduce
 
 * 🌍  I'm based in Türkiye
 * ✉️  You can contact me at [azmanfnur@gmail.com](mailto:azmanfnur@gmail.com)
-* 🧠  I'm learning Machine Learning, Deep Learning, NLP, Generative AI
+* 🧠  I'm learning Data Analysis, Machine Learning, Deep Learning, NLP, Generative AI
 * 🤝  I'm open to collaborating on Projects
 
 <br><br>
