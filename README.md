@@ -1,169 +1,74 @@
-<h1 align="center">Hi 👋 My name is FATMA NUR AZMAN</h1>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/fatmanurazman/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/fatma-nur-azman/"/>
-  </a>
-  
-Data Scientist | Data Analyst | Business Analyst | Tableau | Power BI
----------------
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Fatma-Nur-Azman&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-
-Results-driven Data Analyst & Data Scientist with a strong background in data analysis, machine learning, and predictive modeling across industries like healthcare, finance, and e-commerce. Proficient in SQL, Python, Power BI, Tableau, and AWS, transforming complex data into actionable insights to optimize business decisions.
-
-Expert in statistical modeling, feature engineering, and A/B testing, with hands-on experience in developing AI-driven predictive models (achieving 92% accuracy) and enhancing profitability (+15%) and sales performance (+20%). Skilled in data visualization, workflow automation, and end-to-end AI solutions to drive efficiency and strategic impact. 
-
-Proven ability to streamline processes, optimize resource allocation, and reduce project costs by 15%, delivering measurable business value through data-driven solutions.
-
-
-<br><br>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGZlcWkzN2Y5M2MxNjN4MWxyeTE1endkZnp5MWptajIzdXkwOHBxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UDclWKlmfmq7twI3iJ/giphy.gif" align="right" height="280" width="400">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23333333&lines=About+me;)
-
-* 🌍  I'm based in Türkiye
-* ✉️  You can contact me at [azmanfnur@gmail.com](mailto:azmanfnur@gmail.com)
-* 🧠  I'm learning Data Analysis, Machine Learning, Deep Learning, NLP, Generative AI
-* 🤝  I'm open to collaborating on Projects
-
-<br><br>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-
-
-<h2> My Favorite Tools</h2>
-
-<h3>👨‍💻 Programming and Markup Languages</h3>
-
-<p align="left">
-<code><a href="https://github.com/Fatma-Nur-Azman" target="_blank" rel="noreferrer"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><a href="https://github.com/Fatma-Nur-Azman" target="_blank" rel="noreferrer"><img height="50" src="https://www.ibm.com/content/dam/adobe-cms/instana/media_logo/Azure-SQL-Server-Monitoring.component.complex-narrative-xl.ts=1689345623470.png/content/adobe-cms/us/en/products/instana/supported-technologies/microsoft-sql-server-monitoring/_jcr_content/root/table_of_contents/body/content_section_styled/content-section-body/complex_narrative/logoimage"></code>
-<code><a href="https://github.com/Fatma-Nur-Azman" target="_blank" rel="noreferrer"><img height="45" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<code><a href="https://github.com/Fatma-Nur-Azman" target="_blank" rel="noreferrer"><img height="45" src="https://www.jfl-media.com/wp-content/uploads/2022/08/corporate-coaching-photoshop-cc-online-classes.png"></code>  
-
-
-
-
-<h3>🧰 Frameworks and Libraries</h3>
-
-<code><a href="https://github.com/Fatma-Nur-Azman" target="_blank" rel="noreferrer"><img height="40" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
-<code><a href="https://github.com/Fatma-Nur-Azman" target="_blank" rel="noreferrer"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></code>
-  <code><a href="https://github.com/Fatma-Nur-Azman" target="_blank" rel="noreferrer"><img height="30" src="https://matplotlib.org/stable/_static/logo_light.svg"></code>
-<code><a href="https://github.com/Fatma-Nur-Azman" target="_blank" rel="noreferrer"><img height="35" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"></code>
-<code><a href="https://github.com/Fatma-Nur-Azman" target="_blank" rel="noreferrer"><img height="40" src="https://www.vectorlogo.zone/logos/plotly/plotly-ar21.svg"></code>
-<code><a href="https://github.com/Fatma-Nur-Azman" target="_blank" rel="noreferrer"><img height="45" src="https://cdn-images-1.medium.com/v2/resize:fit:1000/1*-7Ro7fO__wwWz0iL9tucHQ.png"></code>
-<code><a href="https://github.com/Fatma-Nur-Azman" target="_blank" rel="noreferrer"><img height="25" src="https://raw.githubusercontent.com/bokeh/pm/main/assets/logos/SVG/bokeh-logo-black-text-no-padding.svg"></code>
-<code><a href="https://github.com/Fatma-Nur-Azman" target="_blank" rel="noreferrer"><img height="35" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png"></code>
-<code><a href="https://github.com/Fatma-Nur-Azman" target="_blank" rel="noreferrer"><img height="55" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
-<code><a href="https://github.com/Fatma-Nur-Azman" target="_blank" rel="noreferrer"><img height="55" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
-
-
-
-
-<h3>🗄️ Databases and Cloud Hosting</h3>
-
-<code><a href="https://github.com/Fatma-Nur-Azman" target="_blank" rel="noreferrer"><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
-<code><a href="https://github.com/Fatma-Nur-Azman" target="_blank" rel="noreferrer"><img height="40" src="https://awsmp-logos.s3.amazonaws.com/0ed7b11e-a954-4759-b706-255abb673d4c/019d31123782932ac3e85ee51c6e1f63.png"></code>
-<code><a href="https://github.com/Fatma-Nur-Azman" target="_blank" rel="noreferrer"><img height="50" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></code>
-<code><a href="https://github.com/Fatma-Nur-Azman" target="_blank" rel="noreferrer"><img height="35" src="https://github.com/gilbarbara/logos/blob/main/logos/notion.svg"></code>
-
-
-<h3>💻 Software and Tools</h3>
-
-<code><a href="https://github.com/Fatma-Nur-Azman" target="_blank" rel="noreferrer"><img height="35" src="https://upload.wikimedia.org/wikipedia/en/0/06/Tableau_logo.svg"></code>
-<code><a href="https://github.com/Fatma-Nur-Azman" target="_blank" rel="noreferrer"><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></code>
-<code><a href="https://github.com/Fatma-Nur-Azman" target="_blank" rel="noreferrer"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
-<code><a href="https://github.com/Fatma-Nur-Azman" target="_blank" rel="noreferrer"><img height="60" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-<code><a href="https://github.com/Fatma-Nur-Azman" target="_blank" rel="noreferrer"><img height="45" src="https://user-images.githubusercontent.com/1784648/98036360-301b2380-1e1a-11eb-8147-6cda5417e344.png"></code>
-<code><a href="https://github.com/Fatma-Nur-Azman" target="_blank" rel="noreferrer"><img height="55" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>
-<code><a href="https://github.com/Fatma-Nur-Azman" target="_blank" rel="noreferrer"><img height="55" src="https://www.sistembul.com/Content/Images/Gallery/microsoft-dynamics-ax-9e42e.png"></code>
-<code><a href="https://github.com/Fatma-Nur-Azman" target="_blank" rel="noreferrer"><img height="48" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
-<code><a href="https://github.com/Fatma-Nur-Azman" target="_blank" rel="noreferrer"><img height="48" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
-<code><a href="https://github.com/Fatma-Nur-Azman" target="_blank" rel="noreferrer"><img height="55" src="https://www.jonathan.vc/wp-content/uploads/2013/06/google-sheets-logo-scaled.png"></code>
-<code><a href="https://github.com/Fatma-Nur-Azman" target="_blank" rel="noreferrer"><img height="55" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg"></code>
-<code><a href="https://github.com/Fatma-Nur-Azman" target="_blank" rel="noreferrer"><img height="45" src="https://www.vectorlogo.zone/logos/discord/discord-ar21.svg"></code>
-
-
-</p>
-
 <div align="center">
 
-<h2>    ...          </h2>
-  
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+  <h1 align="center">Fatma Nur Azman</h1>
+  <h3>Data Scientist & AI Engineer | Google Cloud Platform | Process Automation Lead</h3>
 
-</br>
+  <p align="center">
+    <b>Architecting Intelligence. Automating Decisions. Bridging Data & Strategy.</b>
+  </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Fatma-Nur-Azman&theme=chalk&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+  <a href="https://www.linkedin.com/in/fatmanurazman/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:azmanfnur@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
 
+</div>
 
-</br>
+<br />
 
+## 🚀 About Me
 
+I am a results-oriented **Data Scientist & AI Engineer** bridging the gap between technical complexity and strategic business value. Currently leading the data transformation initiative at **Konyalı Saat**, where I architect living AI systems and end-to-end data ecosystems on **Google Cloud Platform**.
 
-### Badges
+My expertise lies in moving beyond traditional reporting to build autonomous systems: from **raw data ingestion** to **live predictive modeling** and **AI Agent orchestration**.
 
-<table>
-  <tr>
-    <td>
-      <b>My GitHub Stats</b>
-      <a href="http://www.github.com/Fatma-Nur-Azman">
-        <img src="https://github-readme-stats.vercel.app/api?username=Fatma-Nur-Azman&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=F0F0F0&hide_border=true&show_icons=true" alt="Fatma-Nur-Azman's GitHub stats" />
-      </a>
-    </td>
-    <td>
-      <b>My GitHub Streak</b>
-      <a href="http://www.github.com/Fatma-Nur-Azman">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fatma-Nur-Azman&stroke=ffffff&background=F0F0F0&ring=0891b2&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
+- 🔭 **I’m currently working on:** Architecting autonomous **AI Agents** that handle complex product validation and automated customer support.
+- 🏗️ **I’m architecting:** Scalable Data Warehouses on **BigQuery** using **Airbyte** for ELT pipelines.
+- 🧠 **I’m deploying:** Production-grade **Sales Forecasting Models** (Time-Series) that directly drive inventory optimization.
+- ⚡ **Fun fact:** I don't just write code; I build "Digital Employees" (Agents) that reduce manual team workload by **+25%**.
 
 ---
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/Fatma-Nur-Azman/Data-Science_Projects-ML-DL">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fatma-Nur-Azman&repo=Data-Science_Projects-ML-DL" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Fatma-Nur-Azman/EDA_Projects">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fatma-Nur-Azman&repo=EDA_Projects" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Fatma-Nur-Azman/DATAVIZ__Projects-">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fatma-Nur-Azman&repo=DATAVIZ__Projects-" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Fatma-Nur-Azman/Data-Science-Exercises">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fatma-Nur-Azman&repo=Data-Science-Exercises" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Fatma-Nur-Azman/SQL">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fatma-Nur-Azman&repo=SQL" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Fatma-Nur-Azman/Tableau">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fatma-Nur-Azman&repo=Tableau" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center"> 
+  <h2>🛠️ The Toolkit</h2>
+  <i>Modern Data Stack & AI Infrastructure</i>
+</div>
 
+<div align="center">
 
+| **Core & AI** | **Cloud & Infra** | **Data Engineering** | **Analysis & Viz** |
+|:---:|:---:|:---:|:---:|
+| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <br /> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /> <br /> <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white" /> | <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /> <br /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <br /> <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-cloud&logoColor=white" /> | <img src="https://img.shields.io/badge/Airbyte-615EFF?style=for-the-badge&logo=airbyte&logoColor=white" /> <br /> <img src="https://img.shields.io/badge/n8n-FF6560?style=for-the-badge&logo=n8n&logoColor=white" /> <br /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /> | <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white" /> <br /> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> <br /> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /> |
+
+</div>
+
+---
+
+<div align="left">
+
+## 📊 Impact & Case Studies
+
+### 🤖 Autonomous AI Agents (Production)
+Developed self-healing AI agents using **n8n** and **LLMs (Gemini/OpenAI)**.
+- **Workflow:** Ingest user emails -> NLP Classification -> Actionable API Triggers -> BigQuery Logging.
+- **Impact:** Automated repetitive ticket resolution, reducing support team load significantly.
+
+### 📈 End-to-End Sales Forecasting
+Designed a hybrid Time-Series pipeline.
+- **Stack:** Python (Pandas), Scikit-Learn, XGBoost, GCP BigQuery.
+- **Outcome:** **20% reduction** in forecast error (MAPE), optimizing stock levels for thousands of SKUs.
+
+### 🏗️ Modern Data Warehouse (ELT)
+Consolidated ERP (Canias), GA4, and external APIs into a single source of truth.
+- **Architecture:** Airbyte (Ingest) -> BigQuery (Storage) -> Looker (Viz).
+- **Result:** Eliminated data silos and enabled real-time decision-making.
+
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fatma-Nur-Azman&show_icons=true&hide_title=true&count_private=true&hide=stars,issues,contribs&theme=algolia&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff" height="150" alt="GitHub Stats" />
+</div>
