@@ -33,23 +33,76 @@ Currently at **Konyalı Saat**, I lead the design and deployment of AI solutions
 - **Philosophy:** I believe in rigorous statistical validation and scientific methodology, supported by robust engineering standards.
 
 ---
-
 <div align="center"> 
-  <h2>Technical Arsenal</h2>
+  <h2>🛠️ Technical Skills</h2>
   <i>Modern Data Stack & AI Infrastructure</i>
 </div>
 
-<div align="center">
+### 🤖 Generative AI & Agentic Systems
+<p>
+<img src="https://img.shields.io/badge/Autonomous_AI_Agents-000000?style=for-the-badge&logo=robot&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-FF4B4B?style=for-the-badge&logo=target&logoColor=white" />
+<img src="https://img.shields.io/badge/Agentic_Frameworks_(Antigravity)-1a1a1a?style=for-the-badge&logo=probot&logoColor=white" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Cursor_Rules-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini_Pro-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+</p>
 
-| **Generative AI & Agentic Systems** | **Data Architecture & Engineering** |
-|:---:|:---:|
-| <img src="https://img.shields.io/badge/Agentic_Frameworks-000000?style=for-the-badge&logo=robot&logoColor=white" /> <img src="https://img.shields.io/badge/Cursor_Rules-000000?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/RAG-FF4B4B?style=for-the-badge&logo=target&logoColor=white" /> <br /> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini_Pro-8E75B2?style=for-the-badge&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" /> | <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /> <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-cloud&logoColor=white" /> <img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /> <br /> <img src="https://img.shields.io/badge/Airbyte-615EFF?style=for-the-badge&logo=airbyte&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /> |
+### ☁️ Data Architecture & Engineering
+<p>
+<img src="https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloud_Functions-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Airbyte_(ETL/ELT)-615EFF?style=for-the-badge&logo=airbyte&logoColor=white" />
+<img src="https://img.shields.io/badge/Data_Modeling-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Pipeline_Automation-2496ED?style=for-the-badge&logo=apache-airflow&logoColor=white" />
+</p>
 
-| **Machine Learning & MLOps** | **Tools & Visualization** |
-|:---:|:---:|
-| <img src="https://img.shields.io/badge/XGBoost-150458?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/CatBoost-E97627?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <br /> <img src="https://img.shields.io/badge/n8n-FF6560?style=for-the-badge&logo=n8n&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" /> | <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" /> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" /> <br /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logo=cursor&logoColor=white" /> <img src="https://img.shields.io/badge/Canias_ERP-808080?style=for-the-badge&logo=c&logoColor=white" /> |
+### 🧠 Machine Learning & Statistics
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Time--Series_Forecasting-FF6F00?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Predictive_Modeling-9C27B0?style=for-the-badge&logo=mathworks&logoColor=white" />
+<img src="https://img.shields.io/badge/XGBoost-150458?style=for-the-badge&logo=xgboost&logoColor=white" />
+<img src="https://img.shields.io/badge/CatBoost-E97627?style=for-the-badge&logo=catboost&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/A%2FB_Testing-4CAF50?style=for-the-badge&logo=google-analytics&logoColor=white" />
+<img src="https://img.shields.io/badge/KPI_Optimization-FF5722?style=for-the-badge&logo=firebase&logoColor=white" />
+</p>
 
-</div>
+### ⚙️ Workflow Automation & MLOps
+<p>
+<img src="https://img.shields.io/badge/n8n_(Orchestration)-FF6560?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/CI%2FCD_for_ML-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/End--to--End_ML_Pipelines-009688?style=for-the-badge&logo=apache-airflow&logoColor=white" />
+</p>
+
+### 📊 Data Visualization & BI
+<p>
+<img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Automated_Reporting-4CAF50?style=for-the-badge&logo=google-sheets&logoColor=white" />
+</p>
+
+### 🔧 Domain & Tools
+<p>
+<img src="https://img.shields.io/badge/Canias_ERP-808080?style=for-the-badge&logo=sap&logoColor=white" />
+<img src="https://img.shields.io/badge/MS_Axapta-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Cursor_(AI--Native_IDE)-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" />
+</p>
 
 ---
 
